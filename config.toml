@@ -1,8 +1,9 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'DeFiYield Docs'
 theme = "hugo-theme-techdoc"
 
 
 [params]
     menu_style = "open-menu"
+    custom_background_color = "#1452F0"
