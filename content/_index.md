@@ -1,8 +1,7 @@
 ---
-title: ""
+title: Security Toolkit
+
 ---
-
-
 # DeFiYield - a new security paradigm
 
 
@@ -16,4 +15,4 @@ DeFiYield strives to make the DeFi space safer for everyone by developing the un
 The DeFiYield ecosystem unites a large community of defiers involving newbies, experienced users, whales, degens and anyone who is willing to join DeFi. Our community, which has grown tremendously since the project’s launch, enjoys the following major elements of the ecosystem:
 The only on the market security dashboard combining features for effective crypto asset  management with a built in safety infrastructure allowing users to be aware of risks and handle them;
 Community governance implemented through the governance token distribution;
-An open access safety toolkit and databases including the security audit database, the rekt database, DeFiYield’s smart contract scanner, the Timelock contract viewer and the advanced impermanent loss calculator. 
+An open access safety toolkit and databases including the security audit database, the rekt database, DeFiYield’s smart contract scanner, the Timelock contract viewer and the advanced impermanent loss calculator.
